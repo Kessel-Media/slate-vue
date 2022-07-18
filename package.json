@@ -5,7 +5,7 @@
     "packages/*"
   ],
   "repository": {
-    "url": "https://github.com/marsprince/slate-vue"
+    "url": "https://github.com/Kessel-Media/slate-vue"
   },
   "scripts": {
     "build": "rollup --config ./config/rollup/rollup.config.js",
