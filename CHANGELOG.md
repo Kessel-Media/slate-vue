@@ -1,3 +1,22 @@
+# [](https://github.com/Kessel-Media/slate-vue/compare/v0.2.0...v) (2022-07-22)
+
+
+### Bug Fixes
+
+* firefox input non editable on embed void ([d63c4aa](https://github.com/Kessel-Media/slate-vue/commit/d63c4aa383f8231b95c91e94737f2d8b39702e3f))
+* package ([5d03cad](https://github.com/Kessel-Media/slate-vue/commit/5d03cad74ce0cc519eb3fbadd5c89c476322288c))
+* upgrade slate latest ([e313f79](https://github.com/Kessel-Media/slate-vue/commit/e313f799d03c9dc0a14167b0c90c6c4c593bf3e8))
+* **deps:** update dependency is-hotkey to ^0.2.0 ([#65](https://github.com/Kessel-Media/slate-vue/issues/65)) ([fc83320](https://github.com/Kessel-Media/slate-vue/commit/fc8332049e5c926f86ab6bacc14f50773e53f211))
+* **plugin:** readOnly: use inject instead of mixin ([caa909c](https://github.com/Kessel-Media/slate-vue/commit/caa909cc75c9ac8260ce3f1c1b12c27f4c4c254c))
+
+
+### Features
+
+* **core:** split utils to slate-vue-shared ([3798666](https://github.com/Kessel-Media/slate-vue/commit/3798666ad119bbb6b750b2d70635c19bb3cd0868))
+* **types:** add types ([668da96](https://github.com/Kessel-Media/slate-vue/commit/668da96ccef2d6f57793a996b2e2dc86846264e0))
+
+
+
 # [](https://github.com/marsprince/slate-vue/compare/v0.1.9...v) (2020-11-17)
 
 
