@@ -12,7 +12,7 @@
 
 ### Features
 
-* **core:** split utils to slate-vue-shared ([3798666](https://github.com/Kessel-Media/slate-vue/commit/3798666ad119bbb6b750b2d70635c19bb3cd0868))
+* **core:** split utils to kessel-slate-vue-shared ([3798666](https://github.com/Kessel-Media/slate-vue/commit/3798666ad119bbb6b750b2d70635c19bb3cd0868))
 * **types:** add types ([668da96](https://github.com/Kessel-Media/slate-vue/commit/668da96ccef2d6f57793a996b2e2dc86846264e0))
 
 

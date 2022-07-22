@@ -8,7 +8,7 @@ import {
   addOnBeforeInput,
   EditableComponent,
   IS_FIREFOX_LEGACY
-} from 'slate-vue-shared';
+} from 'kessel-slate-vue-shared';
 import { Range } from 'slate';
 import { PropType } from 'vue';
 import { UseRef } from '../types';
